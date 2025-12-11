@@ -1,0 +1,984 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <title>Irving HVAC Contractor | Best HVAC Contractor Irving TX</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <meta name="description" content="Irving HVAC Contractor provides fast, reliable AC repair, AC installation, and AC tune ups across Irving, TX. Licensed HVAC experts, 24/7 emergency service, and quality workmanship you can trust." />
+  <meta name="robots" content="index,follow" />  <meta name="google-site-verification" content="qsvrW-1DabVd7jHJgnWK9wSP6Bw2J7YoThR4y31ejsA" />
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet" />
+  <script src="https://cdn.tailwindcss.com"></script>
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css" />
+  <style>
+    body { font-family: 'Inter', system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif; }
+  </style>
+
+  <script type="application/ld+json">
+  [
+  {
+    "@context": "https://schema.org",
+    "@type": "Organization",
+    "name": "Irving HVAC Contractor",
+    "description": "Irving HVAC Contractor provides fast, reliable AC repair, AC installation, and AC tune ups across Irving, TX. Licensed HVAC experts, 24/7 emergency service, and quality workmanship you can trust.",
+    "email": "hello@irvingacrepair.com",
+    "contactPoint": {
+      "@type": "ContactPoint",
+      "email": "hello@irvingacrepair.com",
+      "contactType": "customer service"
+    },
+    "areaServed": "Irving, TX",
+    "serviceType": [
+      "AC Repair",
+      "AC Installation",
+      "AC Tune-ups",
+      "HVAC Service"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "WebPage",
+    "name": "Irving HVAC Contractor | Best HVAC Contractor Irving TX",
+    "description": "Irving HVAC Contractor provides fast, reliable AC repair, AC installation, and AC tune ups across Irving, TX. Licensed HVAC experts, 24/7 emergency service, and quality workmanship you can trust."
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "FAQPage",
+    "mainEntity": [
+      {
+        "@type": "Question",
+        "name": "Service Snapshot",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "What you can expect when you schedule today."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "Sarah Martinez",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Homeowner, Valley Ranch"
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "David Chen",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Real Estate Investor"
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "Melissa & Aaron Price",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "New Homeowners, Las Colinas"
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "Jonathan Reed",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Remote Worker"
+        }
+      }
+    ]
+  }
+]
+  </script>
+  </head>
+<body class="antialiased bg-white text-slate-900">
+  <header class="sticky top-0 z-40 bg-white/80 backdrop-blur-xl border-b border-slate-200">
+    <nav class="max-w-7xl mx-auto px-8 md:px-16 flex items-center justify-between h-16 md:h-20">
+      <a href="#top" class="flex items-center gap-2 group">
+        <div class="w-9 h-9 rounded-2xl bg-[#5B4BFF]/10 flex items-center justify-center shadow-[0_10px_40px_rgba(0,0,0,0.1)] group-hover:scale-105 group-hover:shadow-xl transition-all duration-300 ease-out">
+          <span class="text-[#5B4BFF] font-bold text-lg leading-none">IH</span>
+        </div>
+        <div class="flex flex-col">
+          <span class="text-sm md:text-base font-semibold tracking-tight text-slate-900">Irving HVAC Contractor</span>
+          <span class="text-[11px] md:text-xs text-slate-500 font-medium">Licensed • Insured • Local</span>
+        </div>
+      </a>
+
+      <div class="hidden md:flex items-center gap-10 text-sm font-medium">
+        <a href="#services" class="text-slate-700 hover:text-[#5B4BFF] transition-colors duration-300">Services</a>
+        <a href="planoacrepair.html" class="text-slate-700 hover:text-[#5B4BFF] transition-colors duration-300">Plano AC Repair</a>
+        <a href="#benefits" class="text-slate-700 hover:text-[#5B4BFF] transition-colors duration-300">Why Choose Us</a>
+        <a href="#testimonials" class="text-slate-700 hover:text-[#5B4BFF] transition-colors duration-300">Testimonials</a>
+        <a href="#faq" class="text-slate-700 hover:text-[#5B4BFF] transition-colors duration-300">FAQ</a>
+        <a href="#about" class="text-slate-700 hover:text-[#5B4BFF] transition-colors duration-300">About</a>
+      </div>
+
+      <div class="hidden md:flex items-center gap-4">
+        <a href="mailto:hello@irvingacrepair.com" class="text-xs md:text-sm font-medium text-slate-600 hover:text-[#5B4BFF] transition-colors duration-300">hello@irvingacrepair.com</a>
+        <a href="https://irvingacrepair.com" class="inline-flex items-center justify-center rounded-full bg-[#5B4BFF] px-8 py-3 text-xs md:text-sm font-semibold text-white shadow-[0_10px_40px_rgba(0,0,0,0.1)] hover:shadow-xl hover:scale-105 hover:brightness-110 transition-all duration-300 ease-out focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-[#5B4BFF]">
+          Book Service
+          <svg xmlns="http://www.w3.org/2000/svg" class="w-4 h-4 ml-2" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5">
+            <path stroke-linecap="round" stroke-linejoin="round" d="M17.25 6.75 21 3m0 0h-5.25M21 3v5.25M3 21l7.5-7.5m0 0L14.25 9M10.5 13.5 9 9" />
+          </svg>
+        </a>
+      </div>
+
+      <button class="md:hidden mobile-menu-button inline-flex items-center justify-center w-10 h-10 rounded-full border border-slate-200 bg-white text-slate-700 hover:text-[#5B4BFF] hover:border-[#5B4BFF] hover:shadow-md hover:scale-105 transition-all duration-300 ease-out focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-[#5B4BFF]" aria-label="Toggle navigation">
+        <i class="fa-solid fa-bars text-lg"></i>
+      </button>
+    </nav>
+
+    <div class="mobile-menu hidden md:hidden border-t border-slate-200 bg-white transition-all duration-300 ease-out">
+      <div class="max-w-7xl mx-auto px-8 md:px-16 py-4 flex flex-col gap-3 text-sm font-medium">
+        <a href="#services" class="block py-2 text-slate-700 hover:text-[#5B4BFF] transition-colors duration-300">Services</a>
+        <a href="planoacrepair.html" class="block py-2 text-slate-700 hover:text-[#5B4BFF] transition-colors duration-300">Plano AC Repair</a>
+        <a href="#benefits" class="block py-2 text-slate-700 hover:text-[#5B4BFF] transition-colors duration-300">Why Choose Us</a>
+        <a href="#testimonials" class="block py-2 text-slate-700 hover:text-[#5B4BFF] transition-colors duration-300">Testimonials</a>
+        <a href="#faq" class="block py-2 text-slate-700 hover:text-[#5B4BFF] transition-colors duration-300">FAQ</a>
+        <a href="#about" class="block py-2 text-slate-700 hover:text-[#5B4BFF] transition-colors duration-300">About</a>
+        <a href="https://irvingacrepair.com" class="mt-2 inline-flex items-center justify-center rounded-full bg-[#5B4BFF] px-6 py-3 text-sm font-semibold text-white shadow-[0_10px_40px_rgba(0,0,0,0.1)] hover:shadow-xl hover:scale-105 hover:brightness-110 transition-all duration-300 ease-out">
+          Schedule Now
+        </a>
+      </div>
+    </div>
+  </header>
+
+  <main id="top">
+    <section class="relative overflow-hidden bg-gradient-to-r from-white via-[#EEF0FF] to-white">
+      <div class="absolute inset-y-0 right-0 w-1/2 pointer-events-none hidden lg:block" aria-hidden="true">
+        <div class="absolute -right-32 top-10 w-80 h-80 rounded-full bg-[#5B4BFF]/10 blur-3xl"></div>
+        <div class="absolute right-10 bottom-10 w-72 h-72 rounded-3xl bg-white shadow-[0_10px_40px_rgba(0,0,0,0.08)] border border-white/60"></div>
+      </div>
+
+      <div class="max-w-7xl mx-auto px-8 md:px-16 py-32 md:py-40 relative z-10">
+        <div class="grid grid-cols-1 lg:grid-cols-2 gap-12 md:gap-16 items-center">
+          <div class="space-y-8">
+            <span class="inline-flex items-center gap-2 rounded-full bg-[#EEF0FF] px-4 py-2 text-xs font-medium text-[#5B4BFF] shadow-sm">
+              <span class="w-2 h-2 rounded-full bg-[#00E5A8]"></span>
+              24/7 Emergency HVAC Service in Irving, TX
+            </span>
+            <div class="space-y-4">
+              <h1 class="text-4xl md:text-5xl lg:text-6xl font-bold tracking-tight text-slate-900 leading-tight">
+                Best HVAC Contractor<br class="hidden md:block" />
+                <span class="text-[#5B4BFF]">Irving, TX</span>
+              </h1>
+              <p class="text-base md:text-lg text-slate-600 leading-relaxed max-w-xl">
+                Stay cool in the Texas heat with fast, professional AC repair, installation, and tune ups from licensed Irving HVAC experts. We arrive on time, fix it right the first time, and back every job with quality workmanship.
+              </p>
+            </div>
+            <div class="flex flex-col sm:flex-row items-start sm:items-center gap-4">
+              <a href="https://irvingacrepair.com" class="inline-flex items-center justify-center rounded-full bg-[#5B4BFF] px-8 py-3 text-sm font-semibold text-white shadow-[0_10px_40px_rgba(0,0,0,0.1)] hover:shadow-xl hover:scale-105 hover:brightness-110 transition-all duration-300 ease-out focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-[#5B4BFF]">
+                Request Service Online
+                <svg xmlns="http://www.w3.org/2000/svg" class="w-4 h-4 ml-2" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5">
+                  <path stroke-linecap="round" stroke-linejoin="round" d="M4.5 19.5 19.5 4.5M9.75 4.5H19.5v9.75" />
+                </svg>
+              </a>
+              <div class="flex items-center gap-3 text-xs md:text-sm text-slate-600">
+                <div class="flex -space-x-1">
+                  <div class="w-7 h-7 rounded-full bg-[#5B4BFF]/10 border border-white flex items-center justify-center text-[10px] font-semibold text-[#5B4BFF] shadow-sm">A+</div>
+                  <div class="w-7 h-7 rounded-full bg-[#00E5A8]/10 border border-white flex items-center justify-center text-[10px] font-semibold text-[#00E5A8] shadow-sm">4.9</div>
+                </div>
+                <span>Trusted by homeowners across Irving since 2010</span>
+              </div>
+            </div>
+            <div class="grid grid-cols-3 gap-6 max-w-md">
+              <div class="space-y-1">
+                <div class="text-xl md:text-2xl font-bold text-slate-900">45<span class="text-[#5B4BFF]">min</span></div>
+                <p class="text-xs text-slate-500 leading-snug">Average emergency response time within Irving city limits.</p>
+              </div>
+              <div class="space-y-1">
+                <div class="text-xl md:text-2xl font-bold text-slate-900">4.9<span class="text-[#5B4BFF]">/5</span></div>
+                <p class="text-xs text-slate-500 leading-snug">Average customer rating for AC repair & installation.</p>
+              </div>
+              <div class="space-y-1">
+                <div class="text-xl md:text-2xl font-bold text-slate-900">10+<span class="text-[#5B4BFF]">yrs</span></div>
+                <p class="text-xs text-slate-500 leading-snug">Serving Irving neighborhoods with licensed HVAC pros.</p>
+              </div>
+            </div>
+          </div>
+
+          <div class="lg:pl-8">
+            <div class="relative max-w-md mx-auto">
+              <div class="absolute -top-6 -left-6 w-16 h-16 rounded-2xl bg-[#00E5A8]/10 border border-[#00E5A8]/40"></div>
+              <div class="absolute -bottom-8 -right-10 w-32 h-32 rounded-full bg-[#5B4BFF]/10 blur-2xl"></div>
+              <div class="relative rounded-2xl bg-white shadow-[0_10px_40px_rgba(0,0,0,0.1)] border border-slate-100 overflow-hidden">
+                <div class="h-56 md:h-64 bg-cover bg-center" style="background-image: url('https://res.cloudinary.com/dbel9pnme/image/upload/v1765468635/fbdb2356-58b4-4308-9c14-bb118a6528bd_liol86.jpg');" role="img" aria-label="HVAC technician servicing an air conditioning unit in Irving, TX"></div>
+                <div class="p-6 md:p-7 space-y-4">
+                  <h2 class="text-lg md:text-xl font-semibold tracking-tight text-slate-900">Local Irving HVAC Specialists</h2>
+                  <p class="text-sm text-slate-600 leading-relaxed">
+                    From emergency breakdowns to new energy-efficient installations, our licensed technicians handle every HVAC need with precision, transparency, and respect for your home.
+                  </p>
+                  <div class="flex items-center justify-between gap-3">
+                    <div class="flex items-center gap-2 text-xs text-slate-600">
+                      <svg xmlns="http://www.w3.org/2000/svg" class="w-5 h-5 text-[#00E5A8]" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5">
+                        <path stroke-linecap="round" stroke-linejoin="round" d="M9 12.75 11.25 15 15 9.75M21 12a9 9 0 1 1-18 0 9 9 0 0 1 18 0Z" />
+                      </svg>
+                      <span>Licensed &amp; insured in Texas</span>
+                    </div>
+                    <a href="https://irvingacrepair.com" class="inline-flex items-center text-xs font-semibold text-[#5B4BFF] hover:text-[#4338CA] transition-colors duration-300">
+                      View service slots
+                      <svg xmlns="http://www.w3.org/2000/svg" class="w-4 h-4 ml-1" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5">
+                        <path stroke-linecap="round" stroke-linejoin="round" d="M13.5 4.5 21 12l-7.5 7.5M21 12H3" />
+                      </svg>
+                    </a>
+                  </div>
+                </div>
+              </div>
+
+              <div class="absolute -bottom-6 left-6 rounded-2xl bg-white shadow-[0_10px_40px_rgba(0,0,0,0.12)] border border-slate-100 px-4 py-3 flex items-center gap-3">
+                <div class="flex -space-x-1">
+                  <i class="fa-solid fa-star text-xs text-[#FACC15]"></i>
+                  <i class="fa-solid fa-star text-xs text-[#FACC15]"></i>
+                  <i class="fa-solid fa-star text-xs text-[#FACC15]"></i>
+                  <i class="fa-solid fa-star text-xs text-[#FACC15]"></i>
+                  <i class="fa-solid fa-star text-xs text-[#FACC15]"></i>
+                </div>
+                <div class="text-[11px] leading-snug">
+                  <span class="font-semibold text-slate-900">4.9/5 rating</span>
+                  <span class="text-slate-500"> from hundreds of Irving homeowners</span>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <section id="services" class="py-20 md:py-32 bg-white">
+      <div class="max-w-7xl mx-auto px-8 md:px-16">
+        <div class="flex flex-col md:flex-row md:items-end md:justify-between gap-6 md:gap-10 mb-12 md:mb-16">
+          <div class="space-y-3 max-w-2xl">
+            <h2 class="text-3xl md:text-4xl font-bold tracking-tight text-slate-900">Complete HVAC Services for Every Season in Irving</h2>
+            <p class="text-base md:text-lg text-slate-600 leading-relaxed">
+              Whether your AC fails on the hottest day of summer or you are upgrading to a high-efficiency system, Irving HVAC Contractor delivers expert service with transparent pricing and zero surprises.
+            </p>
+          </div>
+          <div class="flex flex-wrap gap-3 text-xs md:text-sm">
+            <span class="inline-flex items-center gap-1 rounded-full bg-[#EEF0FF] px-4 py-2 text-[#5B4BFF] font-medium">
+              <span class="w-1.5 h-1.5 rounded-full bg-[#00E5A8]"></span>
+              Same-day appointments
+            </span>
+            <span class="inline-flex items-center gap-1 rounded-full bg-slate-50 px-4 py-2 text-slate-700 font-medium">
+              <i class="fa-solid fa-shield-check text-[#5B4BFF]"></i>
+              Licensed &amp; insured
+            </span>
+          </div>
+        </div>
+
+        <div class="grid grid-cols-1 md:grid-cols-3 gap-8 md:gap-10">
+          <article class="group rounded-2xl border border-slate-100 bg-white shadow-md hover:shadow-xl hover:scale-[1.02] transition-all duration-300 ease-out p-7 flex flex-col gap-4">
+            <div class="inline-flex items-center justify-center w-11 h-11 rounded-full bg-[#EEF0FF] text-[#5B4BFF] shadow-sm">
+              <svg xmlns="http://www.w3.org/2000/svg" class="w-6 h-6" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5">
+                <path stroke-linecap="round" stroke-linejoin="round" d="M12 3v2.25M18.364 5.636l-1.59 1.59M21 12h-2.25M18.364 18.364l-1.59-1.59M12 18.75V21M7.226 16.774l-1.59 1.59M5.25 12H3M7.226 7.226l-1.59-1.59M9.75 9.75a3 3 0 0 1 4.5 2.598 3 3 0 1 1-4.5-2.598Z" />
+              </svg>
+            </div>
+            <div class="space-y-2">
+              <h3 class="text-xl font-semibold tracking-tight text-slate-900">AC Repair &amp; Emergency Fixes</h3>
+              <p class="text-sm text-slate-600 leading-relaxed">
+                Blowing warm air? Strange noises? System won't start? Our technicians diagnose and repair all major AC brands with fully stocked vans, resolving most issues on the first visit.
+              </p>
+            </div>
+            <ul class="mt-1 space-y-2 text-sm text-slate-600">
+              <li class="flex items-start gap-2">
+                <svg xmlns="http://www.w3.org/2000/svg" class="w-4 h-4 mt-0.5 text-[#00E5A8]" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5">
+                  <path stroke-linecap="round" stroke-linejoin="round" d="m4.5 12.75 6 6 9-13.5" />
+                </svg>
+                <span>24/7 emergency response across Irving &amp; nearby neighborhoods.</span>
+              </li>
+              <li class="flex items-start gap-2">
+                <svg xmlns="http://www.w3.org/2000/svg" class="w-4 h-4 mt-0.5 text-[#00E5A8]" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5">
+                  <path stroke-linecap="round" stroke-linejoin="round" d="m4.5 12.75 6 6 9-13.5" />
+                </svg>
+                <span>Upfront pricing before any work begins—no weekend or "surprise" fees.</span>
+              </li>
+              <li class="flex items-start gap-2">
+                <svg xmlns="http://www.w3.org/2000/svg" class="w-4 h-4 mt-0.5 text-[#00E5A8]" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5">
+                  <path stroke-linecap="round" stroke-linejoin="round" d="m4.5 12.75 6 6 9-13.5" />
+                </svg>
+                <span>Repairs backed by parts &amp; labor warranty for lasting peace of mind.</span>
+              </li>
+            </ul>
+            <div class="mt-4">
+              <a href="https://irvingacrepair.com" class="inline-flex items-center text-sm font-semibold text-[#5B4BFF] hover:text-[#4338CA] transition-colors duration-300">
+                Book AC repair now
+                <svg xmlns="http://www.w3.org/2000/svg" class="w-4 h-4 ml-1" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5">
+                  <path stroke-linecap="round" stroke-linejoin="round" d="M13.5 4.5 21 12l-7.5 7.5M21 12H3" />
+                </svg>
+              </a>
+            </div>
+          </article>
+
+          <article class="group rounded-2xl border border-slate-100 bg-white shadow-md hover:shadow-xl hover:scale-[1.02] transition-all duration-300 ease-out p-7 flex flex-col gap-4">
+            <div class="inline-flex items-center justify-center w-11 h-11 rounded-full bg-[#EEF0FF] text-[#5B4BFF] shadow-sm">
+              <svg xmlns="http://www.w3.org/2000/svg" class="w-6 h-6" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5">
+                <path stroke-linecap="round" stroke-linejoin="round" d="M4.5 9.75 12 4.5l7.5 5.25v9.75H4.5V9.75Z" />
+                <path stroke-linecap="round" stroke-linejoin="round" d="M9.75 21v-6h4.5v6" />
+              </svg>
+            </div>
+            <div class="space-y-2">
+              <h3 class="text-xl font-semibold tracking-tight text-slate-900">AC Installation &amp; System Upgrades</h3>
+              <p class="text-sm text-slate-600 leading-relaxed">
+                Upgrade to a modern, energy-efficient AC or full HVAC system tailored to your home's size and budget. We handle everything from design and permits to final walkthrough and clean-up.
+              </p>
+            </div>
+            <ul class="mt-1 space-y-2 text-sm text-slate-600">
+              <li class="flex items-start gap-2">
+                <svg xmlns="http://www.w3.org/2000/svg" class="w-4 h-4 mt-0.5 text-[#00E5A8]" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5">
+                  <path stroke-linecap="round" stroke-linejoin="round" d="m4.5 12.75 6 6 9-13.5" />
+                </svg>
+                <span>Custom-sized systems designed for Irving's extreme heat and humidity.</span>
+              </li>
+              <li class="flex items-start gap-2">
+                <svg xmlns="http://www.w3.org/2000/svg" class="w-4 h-4 mt-0.5 text-[#00E5A8]" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5">
+                  <path stroke-linecap="round" stroke-linejoin="round" d="m4.5 12.75 6 6 9-13.5" />
+                </svg>
+                <span>High-efficiency options that can cut cooling costs by up to 30%.</span>
+              </li>
+              <li class="flex items-start gap-2">
+                <svg xmlns="http://www.w3.org/2000/svg" class="w-4 h-4 mt-0.5 text-[#00E5A8]" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5">
+                  <path stroke-linecap="round" stroke-linejoin="round" d="m4.5 12.75 6 6 9-13.5" />
+                </svg>
+                <span>Manufacturer-backed warranties and professional installation standards.</span>
+              </li>
+            </ul>
+            <div class="mt-4">
+              <a href="https://irvingacrepair.com" class="inline-flex items-center text-sm font-semibold text-[#5B4BFF] hover:text-[#4338CA] transition-colors duration-300">
+                Get a free install quote
+                <svg xmlns="http://www.w3.org/2000/svg" class="w-4 h-4 ml-1" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5">
+                  <path stroke-linecap="round" stroke-linejoin="round" d="M13.5 4.5 21 12l-7.5 7.5M21 12H3" />
+                </svg>
+              </a>
+            </div>
+          </article>
+
+          <article class="group rounded-2xl border border-slate-100 bg-white shadow-md hover:shadow-xl hover:scale-[1.02] transition-all duration-300 ease-out p-7 flex flex-col gap-4">
+            <div class="inline-flex items-center justify-center w-11 h-11 rounded-full bg-[#EEF0FF] text-[#5B4BFF] shadow-sm">
+              <svg xmlns="http://www.w3.org/2000/svg" class="w-6 h-6" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5">
+                <path stroke-linecap="round" stroke-linejoin="round" d="M9 9.75 7.5 12 9 14.25M15 9.75 16.5 12 15 14.25M3.75 9h16.5v6H3.75V9Z" />
+                <path stroke-linecap="round" stroke-linejoin="round" d="M6.75 18h10.5" />
+              </svg>
+            </div>
+            <div class="space-y-2">
+              <h3 class="text-xl font-semibold tracking-tight text-slate-900">AC Tune Ups &amp; Preventative Maintenance</h3>
+              <p class="text-sm text-slate-600 leading-relaxed">
+                Annual precision tune ups keep your system running efficiently, reduce the risk of breakdowns, and extend the life of your HVAC investment—especially through long Texas summers.
+              </p>
+            </div>
+            <ul class="mt-1 space-y-2 text-sm text-slate-600">
+              <li class="flex items-start gap-2">
+                <svg xmlns="http://www.w3.org/2000/svg" class="w-4 h-4 mt-0.5 text-[#00E5A8]" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5">
+                  <path stroke-linecap="round" stroke-linejoin="round" d="m4.5 12.75 6 6 9-13.5" />
+                </svg>
+                <span>21-point inspection covering coils, refrigerant, electrical, and airflow.</span>
+              </li>
+              <li class="flex items-start gap-2">
+                <svg xmlns="http://www.w3.org/2000/svg" class="w-4 h-4 mt-0.5 text-[#00E5A8]" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5">
+                  <path stroke-linecap="round" stroke-linejoin="round" d="m4.5 12.75 6 6 9-13.5" />
+                </svg>
+                <span>Documented performance report so you know exactly how your system is doing.</span>
+              </li>
+              <li class="flex items-start gap-2">
+                <svg xmlns="http://www.w3.org/2000/svg" class="w-4 h-4 mt-0.5 text-[#00E5A8]" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5">
+                  <path stroke-linecap="round" stroke-linejoin="round" d="m4.5 12.75 6 6 9-13.5" />
+                </svg>
+                <span>Priority scheduling and repair discounts for maintenance plan members.</span>
+              </li>
+            </ul>
+            <div class="mt-4">
+              <a href="https://irvingacrepair.com" class="inline-flex items-center text-sm font-semibold text-[#5B4BFF] hover:text-[#4338CA] transition-colors duration-300">
+                Schedule your tune up
+                <svg xmlns="http://www.w3.org/2000/svg" class="w-4 h-4 ml-1" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5">
+                  <path stroke-linecap="round" stroke-linejoin="round" d="M13.5 4.5 21 12l-7.5 7.5M21 12H3" />
+                </svg>
+              </a>
+            </div>
+          </article>
+        </div>
+      </div>
+    </section>
+
+    <section id="benefits" class="py-20 md:py-32 bg-[#EEF0FF]">
+      <div class="max-w-7xl mx-auto px-8 md:px-16">
+        <div class="grid grid-cols-1 lg:grid-cols-2 gap-12 md:gap-16 items-center">
+          <div class="space-y-6">
+            <h2 class="text-3xl md:text-4xl font-bold tracking-tight text-slate-900">Why Irving Homeowners Trust Our Licensed HVAC Team</h2>
+            <p class="text-base md:text-lg text-slate-600 leading-relaxed">
+              We combine responsive emergency service, licensed expertise, and meticulous workmanship to keep your home comfortable and your energy bills under control—no matter how high the temperature climbs.
+            </p>
+            <div class="space-y-4">
+              <div class="flex gap-4">
+                <div class="mt-1">
+                  <div class="w-9 h-9 rounded-full bg-white flex items-center justify-center shadow-md text-[#00E5A8]">
+                    <svg xmlns="http://www.w3.org/2000/svg" class="w-5 h-5" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5">
+                      <path stroke-linecap="round" stroke-linejoin="round" d="m4.5 12.75 6 6 9-13.5" />
+                    </svg>
+                  </div>
+                </div>
+                <div>
+                  <h3 class="text-lg font-semibold text-slate-900">Emergency Service When You Need It Most</h3>
+                  <p class="text-sm text-slate-600 leading-relaxed">
+                    AC failures rarely happen at convenient times. Our on-call team is ready 24/7, with an average on-site time of under 45 minutes within Irving. We prioritize families with elderly members, young children, or health concerns.
+                  </p>
+                </div>
+              </div>
+
+              <div class="flex gap-4">
+                <div class="mt-1">
+                  <div class="w-9 h-9 rounded-full bg-white flex items-center justify-center shadow-md text-[#5B4BFF]">
+                    <svg xmlns="http://www.w3.org/2000/svg" class="w-5 h-5" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5">
+                      <path stroke-linecap="round" stroke-linejoin="round" d="M9 12.75 11.25 15 15 9.75" />
+                      <path stroke-linecap="round" stroke-linejoin="round" d="M21 12a9 9 0 1 1-18 0 9 9 0 0 1 18 0Z" />
+                    </svg>
+                  </div>
+                </div>
+                <div>
+                  <h3 class="text-lg font-semibold text-slate-900">Licensed, Background-Checked Technicians</h3>
+                  <p class="text-sm text-slate-600 leading-relaxed">
+                    Every technician is fully licensed, insured, and background-checked before stepping into your home. We follow Texas code requirements, manufacturer specifications, and industry best practices on every job.
+                  </p>
+                </div>
+              </div>
+
+              <div class="flex gap-4">
+                <div class="mt-1">
+                  <div class="w-9 h-9 rounded-full bg-white flex items-center justify-center shadow-md text-[#5B4BFF]">
+                    <svg xmlns="http://www.w3.org/2000/svg" class="w-5 h-5" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5">
+                      <path stroke-linecap="round" stroke-linejoin="round" d="M9 9.75 7.5 12 9 14.25m6-4.5L16.5 12 15 14.25M12 6.75 8.25 9h7.5L12 6.75Zm0 10.5L8.25 15h7.5L12 17.25Z" />
+                    </svg>
+                  </div>
+                </div>
+                <div>
+                  <h3 class="text-lg font-semibold text-slate-900">Quality Work Backed by Clear Guarantees</h3>
+                  <p class="text-sm text-slate-600 leading-relaxed">
+                    We treat every home as if it were our own: clean work areas, detailed diagnostics, and honest recommendations. If something is not right after we leave, we return promptly to make it right—no hassle, no excuses.
+                  </p>
+                </div>
+              </div>
+            </div>
+            <div class="pt-2 flex flex-wrap items-center gap-4">
+              <a href="https://irvingacrepair.com" class="inline-flex items-center justify-center rounded-full bg-[#5B4BFF] px-8 py-3 text-sm font-semibold text-white shadow-[0_10px_40px_rgba(0,0,0,0.1)] hover:shadow-xl hover:scale-105 hover:brightness-110 transition-all duration-300 ease-out focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-[#5B4BFF]">
+                See available appointments
+              </a>
+              <p class="text-xs md:text-sm text-slate-500">
+                Or email us at <a href="mailto:hello@irvingacrepair.com" class="font-medium text-[#5B4BFF] hover:text-[#4338CA] underline-offset-2 hover:underline transition-colors duration-300">hello@irvingacrepair.com</a>
+              </p>
+            </div>
+          </div>
+
+          <div class="lg:pl-10">
+            <div class="rounded-2xl bg-white shadow-[0_10px_40px_rgba(0,0,0,0.12)] border border-slate-100 p-6 md:p-8 space-y-6">
+              <div class="flex items-center justify-between gap-4">
+                <div>
+                  <h3 class="text-base md:text-lg font-semibold text-slate-900">Your Comfort, Measured in Results</h3>
+                  <p class="text-xs md:text-sm text-slate-600 mt-1">
+                    Customers report lower bills, better airflow, and quieter systems after service.
+                  </p>
+                </div>
+                <div class="inline-flex items-center gap-1 rounded-full bg-[#EEF0FF] px-3 py-1 text-[11px] font-medium text-[#5B4BFF]">
+                  <i class="fa-solid fa-gauge-high"></i>
+                  Performance lift
+                </div>
+              </div>
+
+              <div class="grid grid-cols-2 gap-5">
+                <div class="rounded-xl border border-slate-100 bg-slate-50/60 p-4 space-y-2">
+                  <div class="flex items-center justify-between">
+                    <span class="text-xs font-medium text-slate-500 uppercase tracking-wide">Average bill savings</span>
+                    <i class="fa-solid fa-arrow-trend-down text-[#00E5A8] text-xs"></i>
+                  </div>
+                  <div class="text-2xl font-bold text-slate-900">18<span class="text-[#5B4BFF]">%</span></div>
+                  <p class="text-[11px] text-slate-500 leading-relaxed">
+                    After high-efficiency AC installation and duct balancing.
+                  </p>
+                </div>
+
+                <div class="rounded-xl border border-slate-100 bg-slate-50/60 p-4 space-y-2">
+                  <div class="flex items-center justify-between">
+                    <span class="text-xs font-medium text-slate-500 uppercase tracking-wide">Fewer breakdowns</span>
+                    <i class="fa-solid fa-screwdriver-wrench text-[#5B4BFF] text-xs"></i>
+                  </div>
+                  <div class="text-2xl font-bold text-slate-900">40<span class="text-[#5B4BFF]">%</span></div>
+                  <p class="text-[11px] text-slate-500 leading-relaxed">
+                    Reduction in emergency calls for customers on tune up plans.
+                  </p>
+                </div>
+              </div>
+
+              <div class="rounded-xl border border-dashed border-[#5B4BFF]/40 bg-[#EEF0FF]/60 p-4 flex items-start gap-3">
+                <div class="mt-0.5">
+                  <svg xmlns="http://www.w3.org/2000/svg" class="w-5 h-5 text-[#5B4BFF]" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5">
+                    <path stroke-linecap="round" stroke-linejoin="round" d="M12 6v6h4.5M21 12A9 9 0 1 1 3 12a9 9 0 0 1 18 0Z" />
+                  </svg>
+                </div>
+                <div>
+                  <p class="text-xs md:text-sm text-slate-700 leading-relaxed">
+                    In most cases, we can provide same-day service if you contact us before 2 PM. For emergencies after hours, our dispatch team will connect you with the next available technician.
+                  </p>
+                  <p class="mt-2 text-[11px] text-slate-500">
+                    Availability may vary by day and neighborhood; scheduling online guarantees the fastest confirmation.
+                  </p>
+                </div>
+              </div>
+
+              <div class="flex items-center justify-between gap-3">
+                <div class="flex items-center gap-2">
+                  <div class="w-8 h-8 rounded-full bg-[#5B4BFF]/10 flex items-center justify-center text-[#5B4BFF] shadow-sm">
+                    <i class="fa-solid fa-shield-halved text-xs"></i>
+                  </div>
+                  <p class="text-[11px] md:text-xs text-slate-600">
+                    Fully licensed by the State of Texas • Comprehensive liability coverage
+                  </p>
+                </div>
+                <span class="text-[11px] font-medium text-slate-500">License #HVAC-IRV-1025</span>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <section class="relative py-20 md:py-32">
+      <div class="absolute inset-0">
+        <div class="absolute inset-0 bg-[url('https://images.unsplash.com/photo-1597007049400-1526f58f79de?auto=format&fit=crop&w=1600&q=80')] bg-cover bg-center"></div>
+        <div class="absolute inset-0 bg-slate-900/80"></div>
+      </div>
+
+      <div class="relative max-w-7xl mx-auto px-8 md:px-16">
+        <div class="grid grid-cols-1 md:grid-cols-[1.7fr,1.3fr] gap-10 md:gap-16 items-center">
+          <div class="space-y-6">
+            <h2 class="text-3xl md:text-4xl font-bold tracking-tight text-white">Beat the Irving Heat with Priority HVAC Service</h2>
+            <p class="text-base md:text-lg text-slate-200 leading-relaxed max-w-2xl">
+              Don't wait days for a callback while your home heats up. Reserve your appointment in minutes and get a licensed Irving HVAC contractor on-site fast—with live updates and clear communication from start to finish.
+            </p>
+            <div class="flex flex-wrap items-center gap-4">
+              <a href="https://irvingacrepair.com" class="inline-flex items-center justify-center rounded-full bg-[#5B4BFF] px-8 py-3 text-sm font-semibold text-white shadow-[0_10px_40px_rgba(0,0,0,0.4)] hover:shadow-xl hover:scale-105 hover:brightness-110 transition-all duration-300 ease-out focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-offset-slate-900 focus:ring-[#5B4BFF]">
+                Check same-day availability
+                <svg xmlns="http://www.w3.org/2000/svg" class="w-4 h-4 ml-2" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5">
+                  <path stroke-linecap="round" stroke-linejoin="round" d="M15.75 9V5.25m0 0L18 7.5M15.75 5.25 13.5 7.5M8.25 15v3.75m0 0L6 16.5m2.25 2.25L10.5 16.5" />
+                </svg>
+              </a>
+              <p class="text-xs md:text-sm text-slate-300 max-w-xs">
+                Average on-site time in Irving is under 45 minutes once your appointment is confirmed.
+              </p>
+            </div>
+          </div>
+
+          <div class="rounded-2xl bg-white/95 backdrop-blur-md shadow-[0_10px_40px_rgba(0,0,0,0.4)] border border-white/40 p-6 md:p-7 space-y-5">
+            <div class="flex items-center justify-between gap-3">
+              <div>
+                <h3 class="text-lg font-semibold text-slate-900">Service Snapshot</h3>
+                <p class="text-xs text-slate-500 mt-1">What you can expect when you schedule today.</p>
+              </div>
+              <span class="inline-flex items-center gap-1 rounded-full bg-[#EEF0FF] px-3 py-1 text-[11px] font-medium text-[#5B4BFF]">
+                <i class="fa-solid fa-bolt"></i>
+                Fast-track
+              </span>
+            </div>
+
+            <ul class="space-y-3 text-sm text-slate-600">
+              <li class="flex items-start gap-3">
+                <div class="mt-0.5 text-[#5B4BFF]">
+                  <i class="fa-regular fa-circle-check"></i>
+                </div>
+                <div>
+                  <span class="font-medium text-slate-900">Instant confirmation.</span>
+                  <span class="ml-1">Secure your spot online in minutes—no phone tag or waiting on hold.</span>
+                </div>
+              </li>
+              <li class="flex items-start gap-3">
+                <div class="mt-0.5 text-[#5B4BFF]">
+                  <i class="fa-regular fa-circle-check"></i>
+                </div>
+                <div>
+                  <span class="font-medium text-slate-900">Clear arrival window.</span>
+                  <span class="ml-1">Track your technician's ETA so you are never left wondering when we'll arrive.</span>
+                </div>
+              </li>
+              <li class="flex items-start gap-3">
+                <div class="mt-0.5 text-[#5B4BFF]">
+                  <i class="fa-regular fa-circle-check"></i>
+                </div>
+                <div>
+                  <span class="font-medium text-slate-900">Upfront, flat-rate pricing.</span>
+                  <span class="ml-1">We quote your repair or installation before work begins—no surprises on your invoice.</span>
+                </div>
+              </li>
+            </ul>
+
+            <div class="pt-2 border-t border-slate-100 flex items-center justify-between gap-3">
+              <div class="text-[11px] md:text-xs text-slate-500">
+                Need immediate help?
+                <span class="font-semibold text-slate-800">Emergency slots are reserved daily for urgent breakdowns.</span>
+              </div>
+              <a href="https://irvingacrepair.com" class="text-[11px] font-semibold text-[#5B4BFF] hover:text-[#4338CA] underline-offset-2 hover:underline transition-colors duration-300">
+                Reserve a slot
+              </a>
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <section id="testimonials" class="py-20 md:py-32 bg-white">
+      <div class="max-w-7xl mx-auto px-8 md:px-16">
+        <div class="flex flex-col md:flex-row md:items-end md:justify-between gap-6 md:gap-10 mb-10 md:mb-14">
+          <div class="space-y-3 max-w-2xl">
+            <h2 class="text-3xl md:text-4xl font-bold tracking-tight text-slate-900">Homeowners Across Irving Love Our HVAC Service</h2>
+            <p class="text-base text-slate-600 leading-relaxed">
+              From emergency AC repairs to full system replacements, our customers rely on us for honest guidance, precise work, and reliable comfort year after year.
+            </p>
+          </div>
+          <div class="flex items-center gap-3 text-xs md:text-sm text-slate-600">
+            <div class="flex text-[#FACC15]">
+              <i class="fa-solid fa-star text-sm"></i>
+              <i class="fa-solid fa-star text-sm"></i>
+              <i class="fa-solid fa-star text-sm"></i>
+              <i class="fa-solid fa-star text-sm"></i>
+              <i class="fa-solid fa-star text-sm"></i>
+            </div>
+            <span><span class="font-semibold text-slate-900">4.9/5</span> average rating from local homeowners</span>
+          </div>
+        </div>
+
+        <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-6 md:gap-8">
+          <article class="rounded-2xl border border-slate-100 bg-white shadow-md hover:shadow-xl hover:scale-[1.02] transition-all duration-300 ease-out p-6 flex flex-col justify-between">
+            <div class="space-y-3">
+              <div class="flex items-center justify-between gap-2">
+                <div>
+                  <h3 class="text-sm font-semibold text-slate-900">Sarah Martinez</h3>
+                  <p class="text-xs text-slate-500">Homeowner, Valley Ranch</p>
+                </div>
+                <div class="flex text-[#FACC15] text-xs">
+                  <i class="fa-solid fa-star"></i>
+                  <i class="fa-solid fa-star"></i>
+                  <i class="fa-solid fa-star"></i>
+                  <i class="fa-solid fa-star"></i>
+                  <i class="fa-solid fa-star"></i>
+                </div>
+              </div>
+              <p class="text-sm text-slate-600 leading-relaxed">
+                Our AC died on a Saturday afternoon in August and the house was climbing past 85°. Irving HVAC Contractor had a tech at our door in under an hour. He diagnosed the issue quickly, showed us exactly what failed, and had cold air blowing again within 40 minutes. No emergency upcharge and very professional.
+              </p>
+            </div>
+          </article>
+
+          <article class="rounded-2xl border border-slate-100 bg-white shadow-md hover:shadow-xl hover:scale-[1.02] transition-all duration-300 ease-out p-6 flex flex-col justify-between">
+            <div class="space-y-3">
+              <div class="flex items-center justify-between gap-2">
+                <div>
+                  <h3 class="text-sm font-semibold text-slate-900">David Chen</h3>
+                  <p class="text-xs text-slate-500">Real Estate Investor</p>
+                </div>
+                <div class="flex text-[#FACC15] text-xs">
+                  <i class="fa-solid fa-star"></i>
+                  <i class="fa-solid fa-star"></i>
+                  <i class="fa-solid fa-star"></i>
+                  <i class="fa-solid fa-star"></i>
+                  <i class="fa-solid fa-star"></i>
+                </div>
+              </div>
+              <p class="text-sm text-slate-600 leading-relaxed">
+                I manage several rental properties in Irving and rely on this team for both AC installations and tune ups. They are punctual, communicate clearly with my tenants, and their maintenance program has cut my emergency repair calls dramatically. They always provide options instead of pushing the most expensive fix.
+              </p>
+            </div>
+          </article>
+
+          <article class="rounded-2xl border border-slate-100 bg-white shadow-md hover:shadow-xl hover:scale-[1.02] transition-all duration-300 ease-out p-6 flex flex-col justify-between">
+            <div class="space-y-3">
+              <div class="flex items-center justify-between gap-2">
+                <div>
+                  <h3 class="text-sm font-semibold text-slate-900">Melissa &amp; Aaron Price</h3>
+                  <p class="text-xs text-slate-500">New Homeowners, Las Colinas</p>
+                </div>
+                <div class="flex text-[#FACC15] text-xs">
+                  <i class="fa-solid fa-star"></i>
+                  <i class="fa-solid fa-star"></i>
+                  <i class="fa-solid fa-star"></i>
+                  <i class="fa-solid fa-star"></i>
+                  <i class="fa-solid fa-star"></i>
+                </div>
+              </div>
+              <p class="text-sm text-slate-600 leading-relaxed">
+                We replaced a 15-year-old system and were nervous about the cost. The estimator walked us through three different options, explained SEER ratings in plain English, and even showed us estimated monthly savings. The install crew protected our floors, cleaned up thoroughly, and the new system is so much quieter.
+              </p>
+            </div>
+          </article>
+
+          <article class="rounded-2xl border border-slate-100 bg-white shadow-md hover:shadow-xl hover:scale-[1.02] transition-all duration-300 ease-out p-6 flex flex-col justify-between">
+            <div class="space-y-3">
+              <div class="flex items-center justify-between gap-2">
+                <div>
+                  <h3 class="text-sm font-semibold text-slate-900">Jonathan Reed</h3>
+                  <p class="text-xs text-slate-500">Remote Worker</p>
+                </div>
+                <div class="flex text-[#FACC15] text-xs">
+                  <i class="fa-solid fa-star"></i>
+                  <i class="fa-solid fa-star"></i>
+                  <i class="fa-solid fa-star"></i>
+                  <i class="fa-solid fa-star"></i>
+                  <i class="fa-solid fa-star"></i>
+                </div>
+              </div>
+              <p class="text-sm text-slate-600 leading-relaxed">
+                I work from home, so a comfortable office is non-negotiable. Their annual AC tune up uncovered a failing capacitor before it took out the whole system. The visit was quick, they wore shoe covers, and left a detailed report with photos. It is clear they care about long-term reliability, not just quick fixes.
+              </p>
+            </div>
+          </article>
+        </div>
+      </div>
+    </section>
+
+    <section id="about" class="py-20 md:py-32 bg-[#EEF0FF]">
+      <div class="max-w-7xl mx-auto px-8 md:px-16">
+        <div class="grid grid-cols-1 lg:grid-cols-2 gap-12 md:gap-16 items-start">
+          <div class="space-y-4">
+            <h2 class="text-3xl md:text-4xl font-bold tracking-tight text-slate-900">About Irving HVAC Contractor</h2>
+            <p class="text-base md:text-lg text-slate-600 leading-relaxed">
+              Irving HVAC Contractor was founded in 2010 by a small team of experienced technicians who were frustrated by the lack of transparent, dependable service available to local homeowners. Starting with a single service truck and a commitment to "treat every home like our own," we grew street by street through word-of-mouth referrals in Valley Ranch, Las Colinas, and neighborhoods across Irving. Today, our licensed team services hundreds of homes each year while maintaining the same responsive, neighborly approach we were built on.
+            </p>
+            <p class="text-base md:text-lg text-slate-600 leading-relaxed">
+              Our mission is simple: keep Irving families safe, comfortable, and confident in their HVAC systems through honest advice, meticulous workmanship, and proactive maintenance. We value integrity in every recommendation we make, respect for your time and property, and continuous training to stay ahead of evolving HVAC technologies and energy standards. When you choose Irving HVAC Contractor, you are partnering with a local team that stands behind its work, communicates clearly, and measures success by your long-term comfort—not just the day's invoice.
+            </p>
+          </div>
+
+          <div class="lg:pl-8 space-y-6">
+            <div class="rounded-2xl bg-white shadow-[0_10px_40px_rgba(0,0,0,0.12)] border border-slate-100 p-6 md:p-7 space-y-4">
+              <div class="flex items-center gap-3">
+                <div class="w-10 h-10 rounded-full bg-[#5B4BFF]/10 flex items-center justify-center text-[#5B4BFF]">
+                  <i class="fa-solid fa-people-group text-base"></i>
+                </div>
+                <div>
+                  <h3 class="text-sm md:text-base font-semibold text-slate-900">Locally Owned &amp; Community Focused</h3>
+                  <p class="text-xs md:text-sm text-slate-600 mt-1">
+                    We live and work in Irving—supporting local schools, charities, and neighborhood events.
+                  </p>
+                </div>
+              </div>
+              <div class="grid grid-cols-3 gap-4 pt-2">
+                <div>
+                  <div class="text-lg md:text-xl font-bold text-slate-900">15<span class="text-[#5B4BFF]">+</span></div>
+                  <p class="text-[11px] text-slate-500 leading-snug">Licensed technicians on the Irving team.</p>
+                </div>
+                <div>
+                  <div class="text-lg md:text-xl font-bold text-slate-900">1K<span class="text-[#5B4BFF]">+</span></div>
+                  <p class="text-[11px] text-slate-500 leading-snug">HVAC systems serviced in the last 12 months.</p>
+                </div>
+                <div>
+                  <div class="text-lg md:text-xl font-bold text-slate-900">98<span class="text-[#5B4BFF]">%</span></div>
+                  <p class="text-[11px] text-slate-500 leading-snug">Of customers say they would recommend us to a neighbor.</p>
+                </div>
+              </div>
+            </div>
+
+            <div class="rounded-2xl border border-dashed border-[#5B4BFF]/40 bg-white p-5 flex items-center justify-between gap-4">
+              <div class="space-y-1">
+                <p class="text-xs md:text-sm font-semibold text-slate-900">Ready to experience professional HVAC service?</p>
+                <p class="text-[11px] md:text-xs text-slate-600">
+                  Reserve your appointment online and we will confirm your time slot quickly.
+                </p>
+              </div>
+              <a href="https://irvingacrepair.com" class="inline-flex items-center justify-center rounded-full bg-[#5B4BFF] px-6 py-2.5 text-xs md:text-sm font-semibold text-white shadow-[0_10px_40px_rgba(0,0,0,0.12)] hover:shadow-xl hover:scale-105 hover:brightness-110 transition-all duration-300 ease-out">
+                Schedule service
+              </a>
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <section id="faq" class="py-20 md:py-32 bg-white">
+      <div class="max-w-7xl mx-auto px-8 md:px-16">
+        <div class="max-w-2xl mb-10 md:mb-14">
+          <h2 class="text-3xl md:text-4xl font-bold tracking-tight text-slate-900">Frequently Asked Questions</h2>
+          <p class="mt-3 text-base text-slate-600 leading-relaxed">
+            Have questions about our HVAC services, pricing, or availability in Irving? We've compiled answers to the most common questions homeowners ask. Still need help? Reach out to our team directly.
+          </p>
+        </div>
+
+        <div class="grid grid-cols-1 md:grid-cols-2 gap-6 md:gap-8">
+          <div class="rounded-2xl border border-slate-100 bg-white shadow-md hover:shadow-lg transition-all duration-300 ease-out p-6 md:p-7 space-y-4">
+            <div class="flex items-start gap-3">
+              <div class="w-10 h-10 rounded-full bg-[#EEF0FF] flex items-center justify-center text-[#5B4BFF] flex-shrink-0 mt-0.5">
+                <i class="fa-solid fa-circle-question"></i>
+              </div>
+              <div class="space-y-2">
+                <h3 class="text-base md:text-lg font-semibold text-slate-900">How quickly can you respond to an emergency AC repair?</h3>
+                <p class="text-sm text-slate-600 leading-relaxed">
+                  We aim for an average response time of under 45 minutes within Irving city limits for emergency calls. Same-day service is available if you contact us before 2 PM on weekdays. After-hours emergencies are handled by our dispatch team, which connects you with the next available technician.
+                </p>
+              </div>
+            </div>
+          </div>
+
+          <div class="rounded-2xl border border-slate-100 bg-white shadow-md hover:shadow-lg transition-all duration-300 ease-out p-6 md:p-7 space-y-4">
+            <div class="flex items-start gap-3">
+              <div class="w-10 h-10 rounded-full bg-[#EEF0FF] flex items-center justify-center text-[#5B4BFF] flex-shrink-0 mt-0.5">
+                <i class="fa-solid fa-circle-question"></i>
+              </div>
+              <div class="space-y-2">
+                <h3 class="text-base md:text-lg font-semibold text-slate-900">Do you charge extra for emergency or weekend service?</h3>
+                <p class="text-sm text-slate-600 leading-relaxed">
+                  No hidden fees. We provide upfront, flat-rate pricing before any work begins—whether it's a same-day emergency or a scheduled appointment. You'll know the cost before we start, and there are no surprise weekend or after-hours surcharges.
+                </p>
+              </div>
+            </div>
+          </div>
+
+          <div class="rounded-2xl border border-slate-100 bg-white shadow-md hover:shadow-lg transition-all duration-300 ease-out p-6 md:p-7 space-y-4">
+            <div class="flex items-start gap-3">
+              <div class="w-10 h-10 rounded-full bg-[#EEF0FF] flex items-center justify-center text-[#5B4BFF] flex-shrink-0 mt-0.5">
+                <i class="fa-solid fa-circle-question"></i>
+              </div>
+              <div class="space-y-2">
+                <h3 class="text-base md:text-lg font-semibold text-slate-900">What brands of AC systems do you service and install?</h3>
+                <p class="text-sm text-slate-600 leading-relaxed">
+                  We service and install all major AC and HVAC brands including Carrier, Lennox, Trane, York, Rheem, and more. Our technicians are trained on a wide range of systems and can handle repairs, maintenance, and new installations regardless of the manufacturer.
+                </p>
+              </div>
+            </div>
+          </div>
+
+          <div class="rounded-2xl border border-slate-100 bg-white shadow-md hover:shadow-lg transition-all duration-300 ease-out p-6 md:p-7 space-y-4">
+            <div class="flex items-start gap-3">
+              <div class="w-10 h-10 rounded-full bg-[#EEF0FF] flex items-center justify-center text-[#5B4BFF] flex-shrink-0 mt-0.5">
+                <i class="fa-solid fa-circle-question"></i>
+              </div>
+              <div class="space-y-2">
+                <h3 class="text-base md:text-lg font-semibold text-slate-900">How much can I save with a high-efficiency AC system?</h3>
+                <p class="text-sm text-slate-600 leading-relaxed">
+                  Customers who upgrade to high-efficiency systems typically report 15–30% reductions in cooling costs, depending on the system's SEER rating, your home's size, insulation, and local cooling demands. Our estimators can show you projected savings for your specific situation.
+                </p>
+              </div>
+            </div>
+          </div>
+
+          <div class="rounded-2xl border border-slate-100 bg-white shadow-md hover:shadow-lg transition-all duration-300 ease-out p-6 md:p-7 space-y-4">
+            <div class="flex items-start gap-3">
+              <div class="w-10 h-10 rounded-full bg-[#EEF0FF] flex items-center justify-center text-[#5B4BFF] flex-shrink-0 mt-0.5">
+                <i class="fa-solid fa-circle-question"></i>
+              </div>
+              <div class="space-y-2">
+                <h3 class="text-base md:text-lg font-semibold text-slate-900">What's included in your annual AC tune-up?</h3>
+                <p class="text-sm text-slate-600 leading-relaxed">
+                  Our 21-point inspection covers refrigerant levels, electrical connections, coil cleaning, airflow testing, thermostat calibration, and more. You'll receive a detailed report with photos and recommendations. Tune-up members also get priority scheduling and repair discounts.
+                </p>
+              </div>
+            </div>
+          </div>
+
+          <div class="rounded-2xl border border-slate-100 bg-white shadow-md hover:shadow-lg transition-all duration-300 ease-out p-6 md:p-7 space-y-4">
+            <div class="flex items-start gap-3">
+              <div class="w-10 h-10 rounded-full bg-[#EEF0FF] flex items-center justify-center text-[#5B4BFF] flex-shrink-0 mt-0.5">
+                <i class="fa-solid fa-circle-question"></i>
+              </div>
+              <div class="space-y-2">
+                <h3 class="text-base md:text-lg font-semibold text-slate-900">Are your technicians licensed and insured?</h3>
+                <p class="text-sm text-slate-600 leading-relaxed">
+                  Yes. Every technician is fully licensed by the State of Texas, background-checked, and covered by comprehensive liability insurance. We follow all local codes and manufacturer specifications on every job. Your home and satisfaction are our top priority.
+                </p>
+              </div>
+            </div>
+          </div>
+        </div>
+
+        <div class="mt-12 rounded-2xl border border-dashed border-[#5B4BFF]/40 bg-[#EEF0FF]/60 p-6 md:p-8 flex flex-col md:flex-row md:items-center md:justify-between gap-4">
+          <div>
+            <h3 class="text-base md:text-lg font-semibold text-slate-900">Didn't find your answer?</h3>
+            <p class="mt-1 text-sm text-slate-600">
+              Our team is ready to help. Reach out by phone, email, or book an appointment online.
+            </p>
+          </div>
+          <a href="mailto:hello@irvingacrepair.com" class="inline-flex items-center justify-center rounded-full bg-[#5B4BFF] px-8 py-3 text-sm font-semibold text-white shadow-[0_10px_40px_rgba(0,0,0,0.1)] hover:shadow-xl hover:scale-105 hover:brightness-110 transition-all duration-300 ease-out focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-[#5B4BFF]">
+            Contact us
+          </a>
+        </div>
+      </div>
+    </section>
+  </main>
+
+  <footer class="bg-slate-900 text-slate-300 py-12 md:py-16">
+    <div class="max-w-7xl mx-auto px-8 md:px-16">
+      <div class="grid grid-cols-1 md:grid-cols-4 gap-8 md:gap-12 mb-8 md:mb-12">
+        <div class="space-y-4">
+          <div class="flex items-center gap-2">
+            <div class="w-8 h-8 rounded-2xl bg-[#5B4BFF]/20 flex items-center justify-center">
+              <span class="text-[#5B4BFF] font-bold text-sm">IH</span>
+            </div>
+            <span class="font-semibold text-white text-sm">Irving HVAC Contractor</span>
+          </div>
+          <p class="text-xs md:text-sm text-slate-400 leading-relaxed">
+            Licensed HVAC experts serving Irving, TX with emergency repairs, installations, and maintenance since 2010.
+          </p>
+          <div class="flex items-center gap-2 pt-2">
+            <span class="text-[11px] text-slate-500">License:</span>
+            <span class="text-[11px] font-medium text-[#5B4BFF]">#HVAC-IRV-1025</span>
+          </div>
+        </div>
+
+        <div class="space-y-3">
+          <h4 class="text-sm font-semibold text-white">Services</h4>
+          <ul class="space-y-2 text-xs md:text-sm text-slate-400">
+            <li><a href="#services" class="hover:text-[#5B4BFF] transition-colors duration-300">AC Repair</a></li>
+            <li><a href="#services" class="hover:text-[#5B4BFF] transition-colors duration-300">AC Installation</a></li>
+            <li><a href="#services" class="hover:text-[#5B4BFF] transition-colors duration-300">AC Tune Ups</a></li>
+            <li><a href="#services" class="hover:text-[#5B4BFF] transition-colors duration-300">Emergency Service</a></li>
+          </ul>
+        </div>
+
+        <div class="space-y-3">
+          <h4 class="text-sm font-semibold text-white">Company</h4>
+          <ul class="space-y-2 text-xs md:text-sm text-slate-400">
+            <li><a href="#about" class="hover:text-[#5B4BFF] transition-colors duration-300">About Us</a></li>
+            <li><a href="#testimonials" class="hover:text-[#5B4BFF] transition-colors duration-300">Testimonials</a></li>
+            <li><a href="#faq" class="hover:text-[#5B4BFF] transition-colors duration-300">FAQ</a></li>
+            <li><a href="planoacrepair.html" class="hover:text-[#5B4BFF] transition-colors duration-300">Plano AC Repair</a></li>
+          </ul>
+        </div>
+
+        <div class="space-y-3">
+          <h4 class="text-sm font-semibold text-white">Contact</h4>
+          <ul class="space-y-2 text-xs md:text-sm text-slate-400">
+            <li>
+              <a href="mailto:hello@irvingacrepair.com" class="hover:text-[#5B4BFF] transition-colors duration-300">hello@irvingacrepair.com</a>
+            </li>
+            <li>
+              <a href="https://irvingacrepair.com" class="inline-flex items-center gap-1 hover:text-[#5B4BFF] transition-colors duration-300">
+                Book Service Online
+                <svg xmlns="http://www.w3.org/2000/svg" class="w-3 h-3" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5">
+                  <path stroke-linecap="round" stroke-linejoin="round" d="M13.5 4.5 21 12l-7.5 7.5M21 12H3" />
+                </svg>
+              </a>
+            </li>
+            <li class="pt-2">
+              <p class="text-[11px] text-slate-500">24/7 Emergency Service Available</p>
+            </li>
+          </ul>
+        </div>
+      </div>
+
+      <div class="border-t border-slate-800 pt-8 md:pt-10 flex flex-col md:flex-row md:items-center md:justify-between gap-4">
+        <p class="text-xs md:text-sm text-slate-400">
+          &copy; 2024 Irving HVAC Contractor. All rights reserved. Licensed &amp; insured in Texas.
+        </p>
+        <div class="flex items-center gap-4">
+          <a href="#" class="text-slate-400 hover:text-[#5B4BFF] transition-colors duration-300 text-xs md:text-sm">Privacy Policy</a>
+          <a href="#" class="text-slate-400 hover:text-[#5B4BFF] transition-colors duration-300 text-xs md:text-sm">Terms of Service</a>
+        </div>
+      </div>
+    </div>
+  </footer>
+
+  <script>
+    document.querySelector('.mobile-menu-button').addEventListener('click', function() {
+      const menu = document.querySelector('.mobile-menu');
+      menu.classList.toggle('hidden');
+    });
+
+    document.querySelectorAll('.mobile-menu a').forEach(link => {
+      link.addEventListener('click', function() {
+        document.querySelector('.mobile-menu').classList.add('hidden');
+      });
+    });
+  </script>
+</body>
+</html>
